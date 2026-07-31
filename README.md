@@ -1,67 +1,78 @@
+# Hi there 👋, I'm Drishti 
 
-# Hi there 👋 I'm Drishti Dhingra
+### 🎓 Computer Science Engineering Student @ UPES
 
-### 🎓 B.Tech Computer Science Engineering @ UPES
-
-I'm a third-year Computer Science student passionate about building software, exploring AI/ML, and continuously improving my problem-solving skills through projects and DSA.
+I'm passionate about software development, AI/ML, and data science. I enjoy building practical applications, exploring new technologies, and continuously improving my problem-solving skills through projects and DSA.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning **Data Structures & Algorithms**, **Machine Learning**, and **Backend Development**
-- 💻 Building projects using **Python**, **FastAPI**, and **Streamlit**
-- 🚀 Interested in Software Development, AI, and Data Science
-- 📍 Dehradun, India
+- 🌱 Currently learning **Data Structures & Algorithms**, **Backend Development**, and **Machine Learning**
+- 💻 Building AI-powered applications using **Python**
+- 🚀 Interested in **Software Engineering**, **Artificial Intelligence**, and **Data Science**
+- 📍 Based in Dehradun, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Language
 - Python
-- C++
 
-**Frameworks & Libraries**
+### ⚙️ Frameworks & Libraries
 - FastAPI
 - Streamlit
 - Pandas
 - NumPy
 - Matplotlib
+- LangChain
 
-**Tools**
+### 🗄️ Databases & Vector Stores
+- SQLite
+- FAISS
+
+### 🛠️ Tools
 - Git
 - GitHub
 - VS Code
 - Jupyter Notebook
-- SQLite
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📚 University Knowledge Assistant
-An AI-powered RAG chatbot that answers university-related questions using PDF documents.
+An AI-powered RAG application that answers university-related queries using document retrieval, semantic search, and large language models.
 
 ### 📝 Notes Generator API
-A backend API that generates structured notes from user input.
+A backend API that generates structured study notes from user input.
 
 ### 🤖 AI Text Processing API
-A Python API for text processing and NLP tasks.
+A Python-based API for text preprocessing and natural language processing tasks.
 
 ---
 
-## 📈 Current Focus
+## 🌱 Currently Working On
 
-- Solving DSA problems regularly
-- Building AI & backend projects
-- Learning software engineering fundamentals
-- Contributing consistently on GitHub
+- 📖 100 Days of DSA
+- 🤖 AI & Backend Development Projects
+- 📚 Machine Learning Fundamentals
+- 🌍 Open Source Contributions
+
+---
+
+## 🎯 Goals
+
+- Solve 300+ DSA problems
+- Build impactful real-world projects
+- Contribute to open source
+- Secure a Software Engineering Internship
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/drishtidhingra01
+- 💼 LinkedIn: www.linkedin.com/in/drishtidhingra01
 
-⭐ Thanks for visiting my profile!
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
